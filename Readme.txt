@@ -1,1 +1,2 @@
-test me pull, conflict
+test me pull, conflict ok
+
